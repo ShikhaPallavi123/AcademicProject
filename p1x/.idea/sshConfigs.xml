@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="localhost" id="eb355160-b779-4fd6-afb7-af72519b15d9" port="22" nameFormat="DESCRIPTIVE" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="cs1.seattleu.edu" id="237c8a4d-cfc2-452b-932c-8c93cad31e25" port="22" nameFormat="DESCRIPTIVE" username="spallavi" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
