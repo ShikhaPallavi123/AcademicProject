@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4bb5729e-c7d9-445c-9f16-d15007aad017" name="cs1" url="http://cs1.seattleu.edu">
+        <fileTransfer rootFolder="/home/st/spallavi" accessType="SFTP" host="cs1.seattleu.edu" port="22" sshConfigId="9bfcbe51-9856-4a74-b30d-5228843308ad" sshConfig="spallavi@cs1.seattleu.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

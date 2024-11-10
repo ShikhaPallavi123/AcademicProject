@@ -1,0 +1,3 @@
+/Users/shikhapallavi/CLionProjects/p3x/cmake-build-debug/CMakeFiles/p3x.dir
+/Users/shikhapallavi/CLionProjects/p3x/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shikhapallavi/CLionProjects/p3x/cmake-build-debug/CMakeFiles/rebuild_cache.dir
